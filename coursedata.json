@@ -1,0 +1,62 @@
+[
+    {
+        "popularCourses": [
+            {
+                "name": "Design basic for beginner",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsceBio-I_s1UQVr5_ZWnlpAkLvmnCtRVZCagDLExLekFsHdlQzLsFP8uJHwQRzFtWx1k&usqp=CAU",
+                "descripLesson": "Any graphic design course worth its salt will teach you everything you need to know about graphic design and set you up to head out into the world as a graphic designer.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/BeginningGraphicDesignFundamentals_480p.mp4"
+            },
+            {
+                "name": "Responsive Web Design Fundamentals",
+                "imageUrl": "https://kinsta.com/wp-content/uploads/2020/08/amazon-responsive-design-1.png",
+                "descripLesson": "This is a course by Google on Udacity that teaches you how to design websites that work on different devices and screen sizes. You'll learn about responsive design techniques and how to use CSS frameworks like Bootstrap to create responsive layouts.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/RDFLesson_480p.mp4"
+            },
+            {
+                "name": "Learn UI/UX Design",
+                "imageUrl": "https://phuongnamvina.com/img_data/images/ui-ux-la-gi-diem-khac-biet-va-vai-tro-cua-ui-ux-design.jpg",
+                "descripLesson": "From Beginner to Pro by Marc Andrew on Udemy - This course teaches the principles of user interface (UI) and user experience (UX) design for the web.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/UIUX DESIGN online for FREE Explanation by a Designer_480p.mp4"
+            },
+            {
+                "name": "Web Design for Everybody",
+                "imageUrl": "https://online.umich.edu/media/introhtml_thumnail_1x1.png",
+                "descripLesson": "This course covers the basics of web development, including HTML, CSS, and JavaScript.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/Introduction to HTML5  Coursera  Web Design for Everybody  Course 1  All Week Solutions_480p.mp4"
+            },
+            {
+                "name": "Web Design Basics",
+                "imageUrl": "https://wallpaperaccess.com/full/2945044.jpg",
+                "descripLesson": "A Comprehensive Guide for Beginners by Tuts+ on Envato Tuts+ - This free course covers the basics of web design, including HTML, CSS, and responsive design.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/How to Learn Web Designing  Learning Web Design  Web Design Basics  Intellipaat_480p.mp4"
+            }
+        ],
+        "courseForYou": [
+            {
+                "name": "Entrepreneurship",
+                "imageUrl": "https://i0.wp.com/www.iedunote.com/img/245/entrepreneurship-what-is-the-modern-definition-of-entrepreneur.jpg?fit=2190%2C1689&amp;quality=100&amp;ssl=1",
+                "descripLesson": "This course is designed for people who are interested in starting their own business. It covers topics such as business planning, funding, marketing, and management.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/What is Entrepreneurship definition characteristics and entrepreneurial process_480p.mp4"
+            },
+            {
+                "name": "Operations Management",
+                "imageUrl": "https://thumbs.dreamstime.com/b/operations-management-business-technology-concept-virtual-screen-operations-management-business-technology-concept-113918450.jpg",
+                "descripLesson": "This course focuses on managing the day-to-day operations of a business. It covers topics such as supply chain management, quality control, and process improvement.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/What is Operation Management  Duties and Responsibilities in Operation Management_480p.mp4"
+            },
+            {
+                "name": "Business Ethics",
+                "imageUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220609155222/Business-ethics.png",
+                "descripLesson": "This course covers ethical issues in business, including social responsibility, corporate governance, and ethical decision-making.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/What is Ethics Business Ethics_480p.mp4"
+            },
+            {
+                "name": "Figure Drawing",
+                "imageUrl": "https://manitowoc.org/ImageRepository/Document?documentID=32420",
+                "descripLesson": "Figure drawing is the practice of drawing the human form, and it is a fundamental skill for many types of artists. This course focuses on the techniques and principles of figure drawing.",
+                "videoUrlyou": "https://quanghuytran2812.github.io/jsonapiAndroid/VideoCourse/HowtoSelfAssessYour DrawingSkills.mp4"
+            }
+        ]
+    }
+]
