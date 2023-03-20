@@ -1,12 +1,14 @@
 [
     {
-        "userAccount":[
-            {
-                "fullName": "Huy",
-                "userEmail": "huy@gmail.com",
-                "userPassword": "123",
-                "userRole": "1"
-            }
-        ]
+       "fullName": "Huy",
+       "userEmail": "huy@gmail.com",
+       "userPassword": "123",
+       "userRole": "1"
+    },
+    {
+       "fullName": "Hieu",
+       "userEmail": "hieu@gmail.com",
+       "userPassword": "123",
+       "userRole": "1"
     }
 ]
