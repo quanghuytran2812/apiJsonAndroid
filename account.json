@@ -1,8 +1,12 @@
 [
     {
-        "fullName": "Huy",
-        "userEmail": "huy@gmail.com",
-        "userPassword": "123",
-        "userRole": "1"
+        "userAccount":[
+            {
+                "fullName": "Huy",
+                "userEmail": "huy@gmail.com",
+                "userPassword": "123",
+                "userRole": "1"
+            }
+        ]
     }
 ]
